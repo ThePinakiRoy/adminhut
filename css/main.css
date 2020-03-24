@@ -1,3 +1,31 @@
 * {
     box-sizing: border-box;
 }
+.loader{
+    position: absolute;
+    top: 40%;
+    left: 47%;
+}
+.section-login {
+    padding-top: 150px;
+    display:flex;
+    justify-content: center  ;
+    align-items: center;
+    margin :70px 0;
+}
+footer {
+    clear: both;
+    position: relative;
+    height: 100px;
+    margin-top: -200px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.btn-extend{
+    display: block;
+    width: 100%;
+    margin:auto;
+    margin-top: 20px;
+}
